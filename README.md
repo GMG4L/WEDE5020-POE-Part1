@@ -6,7 +6,9 @@ All of my web pages have a navigation bar at the bottom of the page with picture
 I have updated all of my codes and aligned each and every text on each page to be formated the same and have pushed all my codes, I think i am now finally done.
 
 Referance List: www.w3schools.com
-                ban bro videos, 2024, Youtube https://youtu.be/f3uCSh6LIY0?si=7aGFBpbtysqJpsuI[Accessed 1 April 2025].
+                ban bro videos, 2024, Youtube https://youtu.be/f3uCSh6LIY0?si=7aGFBpbtysqJpsuI[Accessed 3 April 2025].
                 WWW.WWorld Wide Web Consortium.com
                 iie MM HTML Cheatsheet(Rosebank)
+                https://pixabay.com/ [Accessed 1 April 2025]
+                www.Logomaker.com [Accessed 1 April 2025]
                 
